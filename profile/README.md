@@ -20,7 +20,7 @@ Further information:
 
 [Contributing to SIMATIC AX Community](https://github.com/simatic-ax/.github/blob/main/.github/CONTRIBUTING.md)
 
-## Other Siemens projects
+## Other Siemens projectsff
 
 Click on the badges below to find more Siemens [open source projects](https://opensource.siemens.com)!
 
